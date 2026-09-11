@@ -16,13 +16,13 @@ const Layout = () => {
           < Link to="/">
             <p className="text-[12px]">Home</p>
           </Link>
-          <Link hLink to="/countries">
+          <Link  to="/countries">
             <p className="text-[12px]">Countries</p>
           </Link>
-          <Link Link to="/bucket-list">
+          <Link to="/bucket-list">
             <p className="text-[12px]">Bucket List</p>
           </Link>
-          <Link Link tof="/about">
+          <Link  to="/about">
             <p className="text-[12px]">About</p>
           </Link>
         </div>
